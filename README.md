@@ -19,24 +19,24 @@ tiempo. Los pacientes, por su parte, pueden requerir de la receta para algún tr
 
 # El programa debe permitir consultar:
 
-1.- Médicos registrados
-2.- Pacientes registrados
-3.- Consultas médicas registradas (Facturas/Boletas)
+1.- Médicos registrados\
+2.- Pacientes registrados\
+3.- Consultas médicas registradas (Facturas/Boletas)\
 4.- Insumos médicos registrados
 
 # También, el programa deberá permitir visualizar:
 
-1.- El monto total de dinero pagados por los pacientes (individual y global)
-2.- El monto total de dinero recaudado por los médicos (individual y global)
-3.- El monto total de dinero por medicamentos (individual y global)
+1.- El monto total de dinero pagados por los pacientes (individual y global)\
+2.- El monto total de dinero recaudado por los médicos (individual y global)\
+3.- El monto total de dinero por medicamentos (individual y global)\
 4.- Cantidad total de consultas de los pacientes (individual y global)
 
 # Consideraciones Generales:
 
-1.- GUI con Swing
-2.- Validaciones en todo el proyecto
-3.- Excepciones en todo el proyecto
-4.- Almacenamiento en ArrayList
-5.- Exportación a TXT de todos los datos almacenados
-6.- UX/UI
+1.- GUI con Swing\
+2.- Validaciones en todo el proyecto\
+3.- Excepciones en todo el proyecto\
+4.- Almacenamiento en ArrayList\
+5.- Exportación a TXT de todos los datos almacenados\
+6.- UX/UI\
 7.- Presentación con defensa. 
