@@ -31,7 +31,7 @@ tiempo. Los pacientes, por su parte, pueden requerir de la receta para algún tr
 3.- El monto total de dinero por medicamentos (individual y global)
 4.- Cantidad total de consultas de los pacientes (individual y global)
 
-#Consideraciones Generales:
+# Consideraciones Generales:
 
 1.- GUI con Swing
 2.- Validaciones en todo el proyecto
