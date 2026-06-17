@@ -3,6 +3,7 @@
 <p align="center">
   <img src="./MYHOUSE.svg" width="400" alt="Project Logo">
 </p>
+
 Se desea desarrollar un software para una empresa de gestión inmobiliaria (MyHome SPA). La empresa
 recibe inmuebles que los propietarios entregan para la venta y/o en arriendo. Esta información se encuentra
 actualmente en fichas dependiendo del tipo de inmueble a ofrecer. Los inmuebles se clasifican en 3 tipos:
