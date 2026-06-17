@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/CelloVD/My-Home-SPA/blob/ddd21e20fb90c5f4e3efd2d3d1edffce8f419c9b/MHGL.png" alt="MGHL" width="100"/>
+  <img src="https://github.com/CelloVD/My-Home-SPA/blob/ddd21e20fb90c5f4e3efd2d3d1edffce8f419c9b/MHGL.png" alt="MGHL" width="200"/>
 </p>
 
 Se desea desarrollar un software para una empresa de gestión inmobiliaria (MyHome SPA). La empresa
