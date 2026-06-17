@@ -1,7 +1,7 @@
 # My-Home-SPA
 
 <p align="center">
-  <img src="MYHOUSE.svg" width="350" alt="Project Logo">
+  <img src="MYHOUSE.svg" width="351" alt="Project Logo">
 </p>
 
 Se desea desarrollar un software para una empresa de gestión inmobiliaria (MyHome SPA). La empresa
