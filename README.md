@@ -1,6 +1,6 @@
 # My-Home-SPA
 
-<img width="2000" height="2000" alt="MYHOUSE" src="https://github.com/user-attachments/assets/c4c81569-5a51-424a-ab33-477ac6e859a1" />
+![alt text](https://github.com/CelloVD/My-Home-SPA/blob/66bd4552ab33caec784cda5f13d4c764a52048e0/MYHOUSE.png)
 
 Se desea desarrollar un software para una empresa de gestión inmobiliaria (MyHome SPA). La empresa
 recibe inmuebles que los propietarios entregan para la venta y/o en arriendo. Esta información se encuentra
