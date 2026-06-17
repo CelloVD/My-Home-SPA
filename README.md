@@ -1,14 +1,7 @@
 # My-Home-SPA
 
 
-<picture>
-  <!-- Image displayed when GitHub is in Dark Mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CelloVD/My-Home-SPA/blob/ddd21e20fb90c5f4e3efd2d3d1edffce8f419c9b/MHGL.png">
-  <!-- Image displayed when GitHub is in Light Mode -->
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/CelloVD/My-Home-SPA/blob/ddd21e20fb90c5f4e3efd2d3d1edffce8f419c9b/MHGL.png">
-  <!-- Fallback image -->
-  <img alt="GitHub Logo" src="https://github.com/CelloVD/My-Home-SPA/blob/ddd21e20fb90c5f4e3efd2d3d1edffce8f419c9b/MHGL.png" width="200">
-</picture>
+<img src="MYHOUSE.svg" width="200" alt="Logo">
 
 Se desea desarrollar un software para una empresa de gestión inmobiliaria (MyHome SPA). La empresa
 recibe inmuebles que los propietarios entregan para la venta y/o en arriendo. Esta información se encuentra
