@@ -1,5 +1,5 @@
 # My-Home-SPA
-
+<p align="center">
 <img width="150" height="150" alt="MYHOUSE" src="https://github.com/user-attachments/assets/aa250820-f0d1-4f04-8683-10200525869e" /><?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 2000 2000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
@@ -10,7 +10,7 @@
         <path d="M1034.01,1064.346C1060.735,1000 1114.184,1000 1140.909,1032.173C1167.635,1064.346 1167.635,1128.692 1140.909,1193.039C1122.202,1241.298 1074.097,1289.558 1034.01,1321.731C993.923,1289.558 945.819,1241.298 927.112,1193.039C900.387,1128.692 900.387,1064.346 927.112,1032.173C953.837,1000 1007.286,1000 1034.01,1064.346Z" style="fill:white;stroke:white;stroke-width:0.87px;"/>
     </g>
 </svg>
-
+</p>
 
 
 Se desea desarrollar un software para una empresa de gestión inmobiliaria (MyHome SPA). La empresa
