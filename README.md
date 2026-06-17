@@ -35,17 +35,17 @@ su parte, el propietario debe cancelar una comisión del 3.0 % de la operación.
 
 # El programa debe permitir consultar:
 
-1.- Médicos registrados\
-2.- Pacientes registrados\
-3.- Consultas médicas registradas (Facturas/Boletas)\
-4.- Insumos médicos registrados
+1.- Inmuebles registrados (casa o departamento, local comercial, bodega).\
+2.- Clientes registrados.\
+3.- Ventas de inmuebles (casa o departamento, local comercial, bodega).\
+4.- Arriendos de inmuebles (casa o departamento, local comercial, bodega)
 
 # También, el programa deberá permitir visualizar:
 
-1.- El monto total de dinero pagados por los pacientes (individual y global)\
-2.- El monto total de dinero recaudado por los médicos (individual y global)\
-3.- El monto total de dinero por medicamentos (individual y global)\
-4.- Cantidad total de consultas de los pacientes (individual y global)
+1.- Lo pagado en pesos por todas las comisiones de todos los clientes (individual y global)\
+2.- Total de ingresos por ventas (individual y global)\
+3.- Total de ingresos por arriendo (individual y global)\
+4.- Total, de ingresos (ventas y arriendos)
 
 # Consideraciones Generales:
 
