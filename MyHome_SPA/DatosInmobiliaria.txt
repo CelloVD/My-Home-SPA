@@ -1,0 +1,44 @@
+========================================
+        EXPORTACIÓN MYHOME SPA
+========================================
+Fecha: 2026-06-22
+
+========================================
+CLIENTES REGISTRADOS
+========================================
+Registro N° 1
+----------------------------------------
+RUT Cliente: 19872781-4
+Nombre Completo: ASEONADweqf
+
+========================================
+INMUEBLES REGISTRADOS
+========================================
+Registro N° 1
+----------------------------------------
+Tipo: CASA
+N° Referencia: VIV-1234
+Dirección: 1234
+Superficie (m²): 1234.0
+Valor Tasación: 1234.0
+Distribución: 1234 hab, 1234 baños, 1234 coc
+Características Específicas: c/Gas / Normal / Madera
+
+========================================
+VISITAS REGISTRADAS
+========================================
+No hay registros disponibles.
+
+========================================
+OPERACIONES / CIERRES
+========================================
+No hay registros disponibles.
+
+========================================
+5. RESUMEN FINANCIERO
+========================================
+Total ingresos por ventas: $0.0
+Total ingresos por arriendos: $0.0
+Total ingresos globales: $0.0
+Total comisiones globales: $0.0
+
